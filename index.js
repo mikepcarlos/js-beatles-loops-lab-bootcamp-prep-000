@@ -29,12 +29,3 @@ function iLoveTheBeatles(n) {
   } while (n < 15);
   return array;
 }
-
-/*function iLoveTheBeatles(number) {
-  var empty = []
-  do {
-    empty.push("I love the Beatles!")
-    number++
-  } while (number < 15)
-  return empty
-}*/

@@ -21,12 +21,12 @@ function johnLennonFacts(array) {
   return facts;
 }
 
-function iLoveTheBeatles(number) {
-  var empty = [];
+function iLoveTheBeatles(n) {
+  var array = [];
   do {
     empty.push("I love the Beatles!");
-    number++;
-  } while (number < 15);
+    n++;
+  } while (n < 15);
   return empty;
 }
 
